@@ -123,16 +123,17 @@ Kolaborasi ceritaawal dan Cahyani
 
       <!-- Cerita Awal -->
       <div class="card">
-        <img class="avatar"src="logo cerita.png" alt="Ceritaawal1">
+        <img class="avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKaKH6SbbO6YTDY3GOv4NmNvbIh1QoCCuE8g43sj6A=s176-c-k-c0x00ffffff-no-rj" alt="Cerita Awal" />
         <div class="channel-name">Cerita Awal</div>
         <p class="description">Channel berisi cerita menarik, unik, dan inspiratif dari berbagai belahan dunia. Jangan lupa subscribe!</p>
         <a class="btn" href="https://www.youtube.com/@Ceritaawal1" target="_blank">🎥 Subscribe</a>
       </div>
+
       <!-- Cahyaniff -->
       <div class="card">
-        <img class="avatar"src="cahyani.png" alt="">
+        <img class="avatar" src="https://yt3.googleusercontent.com/ytc/APkrFKZ2-8zF1aeEGHDdBCmTrzQEkZ2FYrcTv3_GZAI2=s176-c-k-c0x00ffffff-no-rj" alt="Cahyaniff" />
         <div class="channel-name">Cahyaniff</div>
-        <p class="description">Channel Cahyaniff menyajikan konten anime, editing, dan hiburan ringan untuk semua kalangan.</p>
+        <p class="description">Channel Cahyaniff menyajikan konten vlog, eksplorasi, dan hiburan ringan untuk semua kalangan.</p>
         <a class="btn" href="https://www.youtube.com/@cahyaniff" target="_blank">🎥 Subscribe</a>
       </div>
 
